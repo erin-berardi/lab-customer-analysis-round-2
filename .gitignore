@@ -1,0 +1,7 @@
+**/.DS_Store
+**/*.ipynb_checkpoints/
+**/__pycache__
+.vscode
+.cache
+large_files_datasets/
+car_data.csv
